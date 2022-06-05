@@ -1,4 +1,4 @@
 # infoSec
 On A Quest 
 
-To Break Some Systems
+Demo code for cybersecurity purposes under MITRE ATT&CK framework
